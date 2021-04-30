@@ -11,7 +11,7 @@ django-user-roles
 awscli
 fuzzywuzzy
 mandrill
-rsa==3.4.2
+rsa==4.7
 XlsxWriter==0.9.3
 jsonfield
 django-celery
