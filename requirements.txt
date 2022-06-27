@@ -25,7 +25,7 @@ djangorestframework-csv==2.0.0
 suds==0.4
 xhtml2pdf==0.0.6
 wkhtmltopdf==0.2
-reportlab==3.3.0
+reportlab==3.5.55
 html5lib==1.0b8
 num2words==0.5.4
 lxml==3.7.3
