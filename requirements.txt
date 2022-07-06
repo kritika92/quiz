@@ -28,7 +28,7 @@ wkhtmltopdf==0.2
 reportlab==3.3.0
 html5lib==1.0b8
 num2words==0.5.4
-lxml==3.7.3
+lxml==4.9.1
 gevent==1.2.1
 zc.lockfile==1.2.1
 facebook-sdk==2.0.0
