@@ -22,7 +22,7 @@ pandas==0.19.1
 PyMySQL==0.7.9
 apns==2.0.1
 djangorestframework-csv==2.0.0
-suds==0.4
+suds==1.0.0
 xhtml2pdf==0.0.6
 wkhtmltopdf==0.2
 reportlab==3.3.0
